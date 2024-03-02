@@ -1,0 +1,10 @@
+wheel
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+pyarrow
+ipykernel
+yfinance
