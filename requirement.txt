@@ -8,3 +8,6 @@ streamlit
 pyarrow
 ipykernel
 yfinance
+setuptools
+tensorflow
+dill
